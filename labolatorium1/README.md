@@ -1,3 +1,5 @@
+###### Rozwiązania są kompletne
+----
 —
 
 Zarządzanie pamięcią, biblioteki, pomiar czasu 
@@ -59,7 +61,7 @@ Ile cię trzeba cenić
 Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua_
 
 W tym przypadku tablica główna powinna zawierać tylko jeden wskaźnik na  blok wierszy (bo mamy tylko jedną parę plików).  Blok wierszy powinien być sześcioelementową tablicą wskaźników na napisy z treścią wierszy.  
-![](tablice_boki.png)  
+![](tablice_bloki.png)  
 
 Tablice / bloki powinny być alokowane przy pomocy funkcji `calloc()` (alokacja dynamiczna).
 

@@ -1,3 +1,5 @@
+###### Rozwiązania są kompletne
+----
 ## Zadanie 1 (20%)
 Napisz program, w którym z procesu macierzystego stworzysz dokładnie n procesów potomnych (n parametr wywołania programu). W każdym z procesów potomnych wypisz komunikat, w którym poinformujesz z którego procesu napis pochodzi.
 

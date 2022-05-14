@@ -44,3 +44,9 @@ Wątki - metody synchronizacji
 ### Labolatorium 10
 
 Sockety
+
+
+<hr/>
+
+##### Treści zadań w folderach laboratoriów
+

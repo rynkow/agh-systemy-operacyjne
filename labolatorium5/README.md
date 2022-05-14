@@ -1,3 +1,7 @@
+###### W zadaniu 3 brakuje części za 10%,
+###### w 1 części zadania 2 lista maili zasymulowana jest plikiem tekstowym.
+###### Reszta kompletna.
+---
 # Potoki nazwane i nienazwane
 ## Zadanie 1 (40%)
 

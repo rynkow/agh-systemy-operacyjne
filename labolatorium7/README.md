@@ -1,3 +1,5 @@
+###### Zestaw jest kompletny
+---
 IPC - pamieć wspólna, semafory
 ------------------------------
 

@@ -1,0 +1,3 @@
+w celu oszczędzenia miejsca przeniosłem tutaj pliki LongA.txt i LongB.txt
+
+Aby make działał powinny znajdować się w katalogach zadań

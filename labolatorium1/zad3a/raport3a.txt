@@ -1,0 +1,74 @@
+Wyniki testów dla 3 prób:
+
+----------STATIC
+	------------------ SHORT
+	Real Time: 107, User Time 56, System Time 50
+	------------------ MEDIUM
+	Real Time: 419, User Time 218, System Time 200
+	------------------ LONG
+	Real Time: 792, User Time 412, System Time 377
+----------SHARED
+	------------------ SHORT
+	Real Time: 88, User Time 50, System Time 37
+	------------------ MEDIUM
+	Real Time: 403, User Time 209, System Time 192
+	------------------ LONG
+	Real Time: 805, User Time 432, System Time 372
+----------DYNAMIC
+	------------------ SHORT
+	Real Time: 84, User Time 44, System Time 39
+	------------------ MEDIUM
+	Real Time: 411, User Time 223, System Time 187
+	------------------ LONG
+	Real Time: 810, User Time 422, System Time 385
+	
+	
+----------STATIC
+	------------------ SHORT
+	Real Time: 106, User Time 58, System Time 48
+	------------------ MEDIUM
+	Real Time: 417, User Time 221, System Time 193
+	------------------ LONG
+	Real Time: 790, User Time 419, System Time 369
+----------SHARED
+------------------ SHORT
+	Real Time: 88, User Time 42, System Time 45
+	------------------ MEDIUM
+	Real Time: 397, User Time 211, System Time 184
+	------------------ LONG
+	Real Time: 814, User Time 422, System Time 390
+----------DYNAMIC
+------------------ SHORT
+	Real Time: 85, User Time 44, System Time 40
+	------------------ MEDIUM
+	Real Time: 399, User Time 194, System Time 203
+	------------------ LONG
+	Real Time: 792, User Time 404, System Time 383
+
+----------STATIC
+	------------------ SHORT
+	Real Time: 110, User Time 61, System Time 48
+	------------------ MEDIUM
+	Real Time: 430, User Time 217, System Time 212
+	------------------ LONG
+	Real Time: 819, User Time 425, System Time 392
+----------SHARED
+	------------------ SHORT
+	Real Time: 88, User Time 49, System Time 39
+	------------------ MEDIUM
+	Real Time: 413, User Time 204, System Time 208
+	------------------ LONG
+	Real Time: 810, User Time 416, System Time 390
+----------DYNAMIC
+	------------------ SHORT
+	Real Time: 88, User Time 43, System Time 44
+	------------------ MEDIUM
+	Real Time: 411, User Time 219, System Time 190
+	------------------ LONG
+	Real Time: 814, User Time 415, System Time 396
+
+	
+ranking wydajności zmienia się przy kolejnych wywołaniach.
+nie widać jasnej zależności wydajności od rodzaju biblioteki.
+
+

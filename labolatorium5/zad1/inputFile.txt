@@ -1,0 +1,6 @@
+składnik1 = cat /etc/passwd | head -n6
+składnik2 = wc -l
+składnik3 = ls -al | tail -n1
+
+składnik1 | składnik2
+składnik3

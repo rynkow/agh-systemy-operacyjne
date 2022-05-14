@@ -1,0 +1,108 @@
+testy wykonam na obrazku o rozmiarach 512x512
+
+wersja 1 ---------------------------------------------
+
+1 watek:
+thread 0: time taken 0.015195
+time taken 0.089828
+
+2 watki:
+thread 1: time taken 0.037877
+thread 0: time taken 0.037937
+time taken 0.110298
+
+4 watki:
+thread 0: time taken 0.015383
+thread 3: time taken 0.015539
+thread 2: time taken 0.032057
+thread 1: time taken 0.032107
+time taken 0.104250
+
+8 watkow:
+thread 7: time taken 0.017253
+thread 0: time taken 0.017666
+thread 1: time taken 0.018067
+thread 2: time taken 0.019171
+thread 6: time taken 0.020139
+thread 5: time taken 0.020584
+thread 3: time taken 0.025546
+thread 4: time taken 0.025464
+time taken 0.101872
+
+16 watkow:
+thread 1: time taken 0.017950
+thread 2: time taken 0.018086
+thread 5: time taken 0.019816
+thread 6: time taken 0.021601
+thread 8: time taken 0.025488
+thread 4: time taken 0.026621
+thread 14: time taken 0.019399
+thread 7: time taken 0.015931
+thread 11: time taken 0.024665
+thread 13: time taken 0.013369
+thread 3: time taken 0.031787
+thread 15: time taken 0.009873
+thread 0: time taken 0.033238
+thread 12: time taken 0.011654
+thread 10: time taken 0.013050
+thread 9: time taken 0.023525
+time taken 0.108761
+
+Czas poszczegolnych watkow wydaje sie malec wraz z iloscia podzialow
+jednak nie są to znaczace roznice, poniewaz kazdy watek i tak szuka swoich pixeli w calym obrazku
+
+
+wersja 2 ---------------------------------------------
+
+1 watek:
+thread 1: time taken 0.005641
+time taken 0.081626
+
+2 watki:
+thread 1: time taken 0.002808
+thread 2: time taken 0.002878
+time taken 0.075445
+
+4 watki:
+thread 1: time taken 0.001533
+thread 4: time taken 0.001571
+thread 3: time taken 0.001606
+thread 2: time taken 0.001523
+time taken 0.080435
+
+8 watkow:
+thread 1: time taken 0.001302
+thread 3: time taken 0.001344
+thread 2: time taken 0.001335
+thread 4: time taken 0.001434
+thread 5: time taken 0.001415
+thread 6: time taken 0.001412
+thread 7: time taken 0.001419
+thread 8: time taken 0.001443
+time taken 0.074877
+
+
+16 watkow:
+thread 1: time taken 0.000668
+thread 2: time taken 0.000700
+thread 3: time taken 0.000692
+thread 6: time taken 0.000769
+thread 5: time taken 0.000760
+thread 4: time taken 0.000759
+thread 16: time taken 0.000838
+thread 9: time taken 0.000899
+thread 15: time taken 0.000776
+thread 14: time taken 0.000863
+thread 8: time taken 0.000723
+thread 13: time taken 0.000784
+thread 12: time taken 0.001011
+thread 7: time taken 0.000767
+thread 11: time taken 0.000659
+thread 10: time taken 0.000801
+time taken 0.081778
+
+Widać, że czas poszczegolnych watkow maleje wraz z iloscia podzialow, jednak powyrzej 8 watkow nie wykonuja sie rownolegle
+
+
+Porownanie metod:
+metoda 2 jest lepsza, pozwala podzielic prace rowno w prosty sposob.

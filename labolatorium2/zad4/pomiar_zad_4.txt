@@ -1,0 +1,14 @@
+------------------------system
+Real Time: 39, User Time 9, System Time 28
+------------------------library
+Real Time: 2, User Time 1, System Time 0
+
+------------------------system
+Real Time: 44, User Time 9, System Time 34
+------------------------library
+Real Time: 2, User Time 1, System Time 0
+
+------------------------system
+Real Time: 41, User Time 10, System Time 30
+------------------------library
+Real Time: 1, User Time 1, System Time 0

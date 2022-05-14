@@ -1,0 +1,4 @@
+System:
+    Real Time: 90, User Time 26, System Time 63
+Biblioteka:
+    Real Time: 25, User Time 1, System Time 3

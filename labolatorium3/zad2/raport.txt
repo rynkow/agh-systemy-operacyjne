@@ -1,0 +1,53 @@
+
+POMIARY DLA MERGY W OSOBNYCH PROCESACH:
+
+        ------------------ SHORT
+        Real Time: 44, User Time 0, System Time 0
+        ------------------ MEDIUM
+        Real Time: 121, User Time 0, System Time 0
+        ------------------ LONG
+        Real Time: 237, User Time 0, System Time 0
+
+
+        ------------------ SHORT
+        Real Time: 44, User Time 0, System Time 0
+        ------------------ MEDIUM
+        Real Time: 123, User Time 0, System Time 0
+        ------------------ LONG
+        Real Time: 235, User Time 0, System Time 0
+
+        ------------------ SHORT
+        Real Time: 46, User Time 0, System Time 0
+        ------------------ MEDIUM
+        Real Time: 139, User Time 0, System Time 0
+        ------------------ LONG
+        Real Time: 238, User Time 0, System Time 0
+
+
+
+POMIARY Z CW01:
+
+        ------------------ SHORT
+        Real Time: 107, User Time 56, System Time 50
+        ------------------ MEDIUM
+        Real Time: 419, User Time 218, System Time 200
+        ------------------ LONG
+        Real Time: 792, User Time 412, System Time 377
+
+        ------------------ SHORT
+        Real Time: 88, User Time 49, System Time 39
+        ------------------ MEDIUM
+        Real Time: 413, User Time 204, System Time 208
+        ------------------ LONG
+        Real Time: 810, User Time 416, System Time 390
+
+        ------------------ SHORT
+        Real Time: 88, User Time 42, System Time 45
+        ------------------ MEDIUM
+        Real Time: 397, User Time 211, System Time 184
+        ------------------ LONG
+        Real Time: 814, User Time 422, System Time 390
+
+
+WNIOSKI:
+    wykonywanie mergy w osobnych procesach widocznie zwiększyło wydajność. (okolo 4-krotnie)

@@ -1,0 +1,8 @@
+Testy dla funkcji fork:
+    blokowanie, instalowanie handlerów i ignorowanie jest dziedziczone przez proces potomny,
+    sygnał czekający w przodku nie jest widoczny w potomku.
+
+Testy dla exec:
+    blokowanie oraz ignorowanie jest dziedziczone.
+    sygnał czekający w przodku jest widoczny w potomku.
+    handler nie jest dziedziczony.

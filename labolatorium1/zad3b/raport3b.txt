@@ -1,0 +1,154 @@
+Dla opcji -O0
+
+----------STATIC
+	------------------ SHORT
+	Real Time: 98, User Time 48, System Time 50
+	------------------ MEDIUM
+	Real Time: 414, User Time 220, System Time 193
+	------------------ LONG
+	Real Time: 807, User Time 423, System Time 380
+----------SHARED
+	------------------ SHORT
+	Real Time: 81, User Time 47, System Time 34
+	------------------ MEDIUM
+	Real Time: 399, User Time 204, System Time 193
+	------------------ LONG
+	Real Time: 794, User Time 405, System Time 387
+----------DYNAMIC
+	------------------ SHORT
+	Real Time: 84, User Time 46, System Time 37
+	------------------ MEDIUM
+	Real Time: 398, User Time 210, System Time 187
+	------------------ LONG
+	Real Time: 803, User Time 419, System Time 381
+
+
+Dla opcji -O
+	
+----------STATIC
+	------------------ SHORT
+	Real Time: 98, User Time 52, System Time 46
+	------------------ MEDIUM
+	Real Time: 408, User Time 220, System Time 187
+	------------------ LONG
+	Real Time: 786, User Time 406, System Time 379
+----------SHARED
+	------------------ SHORT
+	Real Time: 87, User Time 41, System Time 45
+	------------------ MEDIUM
+	Real Time: 398, User Time 208, System Time 189
+	------------------ LONG
+	Real Time: 813, User Time 423, System Time 387
+----------DYNAMIC
+	------------------ SHORT
+	Real Time: 84, User Time 42, System Time 42
+	------------------ MEDIUM
+	Real Time: 396, User Time 210, System Time 184
+	------------------ LONG
+	Real Time: 782, User Time 403, System Time 375
+	
+	
+Dla opcji -O1
+
+----------STATIC
+	------------------ SHORT
+	Real Time: 102, User Time 54, System Time 47
+	------------------ MEDIUM
+	Real Time: 427, User Time 225, System Time 199
+	------------------ LONG
+	Real Time: 808, User Time 414, System Time 390
+----------SHARED
+	------------------ SHORT
+	Real Time: 91, User Time 45, System Time 45
+	------------------ MEDIUM
+	Real Time: 399, User Time 206, System Time 191
+	------------------ LONG
+	Real Time: 791, User Time 406, System Time 382
+----------DYNAMIC
+	------------------ SHORT
+	Real Time: 86, User Time 45, System Time 41
+	------------------ MEDIUM
+	Real Time: 394, User Time 215, System Time 177
+	------------------ LONG
+	Real Time: 805, User Time 409, System Time 394
+	
+
+Dla opcji -O2
+
+----------STATIC
+	------------------ SHORT
+	Real Time: 102, User Time 55, System Time 46
+	------------------ MEDIUM
+	Real Time: 431, User Time 221, System Time 209
+	------------------ LONG
+	Real Time: 793, User Time 390, System Time 399
+----------SHARED
+------------------ SHORT
+	Real Time: 85, User Time 44, System Time 40
+	------------------ MEDIUM
+	Real Time: 390, User Time 194, System Time 194
+	------------------ LONG
+	Real Time: 782, User Time 410, System Time 370
+----------DYNAMIC
+	------------------ SHORT
+	Real Time: 85, User Time 45, System Time 38
+	------------------ MEDIUM
+	Real Time: 386, User Time 189, System Time 196
+	------------------ LONG
+	Real Time: 773, User Time 404, System Time 367
+
+
+Dla opcji -O3
+
+----------STATIC
+	------------------ SHORT
+	Real Time: 99, User Time 55, System Time 43
+	------------------ MEDIUM
+	Real Time: 431, User Time 216, System Time 215
+	------------------ LONG
+	Real Time: 810, User Time 430, System Time 378
+----------SHARED
+	------------------ SHORT
+	Real Time: 85, User Time 42, System Time 42
+	------------------ MEDIUM
+	Real Time: 392, User Time 209, System Time 182
+	------------------ LONG
+	Real Time: 797, User Time 402, System Time 389
+----------DYNAMIC
+	------------------ SHORT
+	Real Time: 84, User Time 39, System Time 44
+	------------------ MEDIUM
+	Real Time: 390, User Time 213, System Time 176
+	------------------ LONG
+	Real Time: 775, User Time 410, System Time 364
+
+
+Dla opcji -Os
+
+----------STATIC
+	------------------ SHORT
+	Real Time: 105, User Time 51, System Time 53
+	------------------ MEDIUM
+	Real Time: 420, User Time 219, System Time 199
+	------------------ LONG
+	Real Time: 793, User Time 410, System Time 380
+----------SHARED
+	------------------ SHORT
+	Real Time: 87, User Time 44, System Time 42
+	------------------ MEDIUM
+	Real Time: 413, User Time 210, System Time 201
+	------------------ LONG
+	Real Time: 800, User Time 404, System Time 389
+----------DYNAMIC
+	------------------ SHORT
+	Real Time: 90, User Time 49, System Time 40
+	------------------ MEDIUM
+	Real Time: 418, User Time 217, System Time 199
+	------------------ LONG
+	Real Time: 810, User Time 421, System Time 384
+
+
+
+widać pozytywny wpływ opci O2, O3 jednak nie są one znaczne.
+
+

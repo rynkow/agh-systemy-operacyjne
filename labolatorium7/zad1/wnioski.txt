@@ -1,0 +1,4 @@
+dla 2 kucharzy i 2 dostawsców dostawcy nie są w stanie dostarczyć wszystkich produkowanych pizz, piec nigdy nie jest pełny
+
+dle 5 kucharzy i 8 dostawców stół jest prawie zawsze wolny.
+

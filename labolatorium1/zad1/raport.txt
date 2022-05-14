@@ -1,0 +1,10 @@
+create_table
+Real Time: 0, User Time 0, System Time 0
+merge_files
+Real Time: 0, User Time 0, System Time 0
+remove_row
+Real Time: 0, User Time 0, System Time 0
+remove_row
+Real Time: 0, User Time 0, System Time 0
+remove_block
+Real Time: 0, User Time 0, System Time 0

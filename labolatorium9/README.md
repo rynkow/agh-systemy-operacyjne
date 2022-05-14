@@ -1,3 +1,5 @@
+###### Zestaw jest kompletny
+---
 ### Opis problemu:  
 W ramach zadania należy zaimplementować rozwiązanie problemu Świętego Mikołaja.
 

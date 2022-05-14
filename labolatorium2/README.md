@@ -1,3 +1,5 @@
+###### Rozwiązania są kompletne
+----
 We wszystkich poniższych zadaniach proszę skorzystać z obu wariantów implementacji:
 lib - przy użyciu funkcji biblioteki C: fread() i fwrite()
 sys - przy użyciu funkcji systemowych: read() i write()

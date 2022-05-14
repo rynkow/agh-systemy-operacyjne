@@ -1,3 +1,5 @@
+###### Zestaw jest kompletny
+---
 ## Celem zadania jest napisanie prostego systemu pozwalającego na granie w kółko i krzyżyk w architekturze klient/serwer.
 
 
